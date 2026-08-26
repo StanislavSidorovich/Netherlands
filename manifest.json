@@ -1,0 +1,20 @@
+{
+  "name": "Нидерландский с нуля · Фландрия",
+  "short_name": "Nederlands",
+  "description": "Курс нидерландского языка Фландрии для начинающих: чтение, порядок слов, de и het, глагольная рамка. Правило, тексты и задания с проверкой в каждой теме. Офлайн, без рекламы, без регистрации.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "/Nederlands-grammatica/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F2F5F6",
+  "theme_color": "#0E4A5E",
+  "lang": "ru",
+  "dir": "ltr",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
